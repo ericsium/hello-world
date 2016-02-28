@@ -10,7 +10,7 @@ int main ()
                 { "beta", 0 },
                 { "gamma", 0 } };
 
-  mymap.at("alpha") = 10;
+  mymap.at("alph") = 10;
   mymap.at("beta") = 20;
   mymap.at("gamma") = 30;
 

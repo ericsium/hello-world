@@ -5,5 +5,4 @@ compiler:
  - gcc
  
  script:
- - make
- - ./a.out
+ - make && ./a.out
